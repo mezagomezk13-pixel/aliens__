@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/codex_luminance.png",
+  "resources": {
+    "originalImage": "codex_original.png",
+    "croppedImage": "codex_cropped.png",
+    "thumbnailImage": "codex_thumbnail.png",
+    "luminanceImage": "codex_luminance.png"
+  },
+  "name": "codex",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 1074,
+    "left": 0,
+    "width": 5080,
+    "height": 6773,
+    "isRotated": true,
+    "originalWidth": 5080,
+    "originalHeight": 8920
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795466311809,
+  "updated": 1795466311809
+}

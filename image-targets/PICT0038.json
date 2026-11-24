@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/PICT0038_luminance.png",
+  "resources": {
+    "originalImage": "PICT0038_original.png",
+    "croppedImage": "PICT0038_cropped.png",
+    "thumbnailImage": "PICT0038_thumbnail.png",
+    "luminanceImage": "PICT0038_luminance.png"
+  },
+  "name": "PICT0038",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 200,
+    "width": 3600,
+    "height": 4800,
+    "isRotated": true,
+    "originalWidth": 4000,
+    "originalHeight": 4800
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795466292889,
+  "updated": 1795466292889
+}
